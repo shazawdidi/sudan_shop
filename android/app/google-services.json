@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "597811317186",
+    "project_id": "shop-sd",
+    "storage_bucket": "shop-sd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597811317186:android:290350d19c03db0dea2e5b",
+        "android_client_info": {
+          "package_name": "com.shaza.shopping.sd_shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHL3ibCA0JSHCOKYyu2jZ1sqmnzw1_9L8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
